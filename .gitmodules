@@ -1,6 +1,3 @@
-[submodule "vendors/openhive-labs/roadmap"]
-	path = vendors/openhive-labs/roadmap
-	url = https://github.com/openhive-labs/roadmap.git
 [submodule "vendors/openhive-labs/hivemesh"]
 	path = vendors/openhive-labs/hivemesh
 	url = https://github.com/openhive-labs/hivemesh.git
