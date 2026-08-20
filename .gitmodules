@@ -13,3 +13,7 @@
 [submodule "vendors/openhive-labs/.github"]
 	path = vendors/openhive-labs/.github
 	url = https://github.com/openhive-labs/.github.git
+[submodule "vendors/openhive-labs/roadmap"]
+	path = vendors/openhive-labs/roadmap
+	url = https://github.com/openhive-labs/roadmap.git
+	update = none
