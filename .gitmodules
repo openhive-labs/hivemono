@@ -1,0 +1,18 @@
+[submodule "vendors/openhive-labs/roadmap"]
+	path = vendors/openhive-labs/roadmap
+	url = https://github.com/openhive-labs/roadmap.git
+[submodule "vendors/openhive-labs/hivemesh"]
+	path = vendors/openhive-labs/hivemesh
+	url = https://github.com/openhive-labs/hivemesh.git
+[submodule "vendors/openhive-labs/hivemesh-protocol"]
+	path = vendors/openhive-labs/hivemesh-protocol
+	url = https://github.com/openhive-labs/hivemesh-protocol.git
+[submodule "vendors/openhive-labs/docs"]
+	path = vendors/openhive-labs/docs
+	url = https://github.com/openhive-labs/docs.git
+[submodule "vendors/openhive-labs/openhive-labs.github.io"]
+	path = vendors/openhive-labs/openhive-labs.github.io
+	url = https://github.com/openhive-labs/openhive-labs.github.io.git
+[submodule "vendors/openhive-labs/.github"]
+	path = vendors/openhive-labs/.github
+	url = https://github.com/openhive-labs/.github.git
